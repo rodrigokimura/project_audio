@@ -14,6 +14,3 @@ mutagen = "*"
 [dev-packages]
 black = "*"
 isort = "*"
-
-[requires]
-python_version = "3.10"
